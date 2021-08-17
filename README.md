@@ -1,11 +1,10 @@
 ### Hi there 👋 I'm Sérgio 
 - 🌱 I’m currently learning  C#
 
-
  <div>
   <a href="https://github.com/SergioLAzevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioLAzevedo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLAzevedo&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioLAzevedo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   
